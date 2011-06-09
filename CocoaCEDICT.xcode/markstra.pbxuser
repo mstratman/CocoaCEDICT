@@ -1,0 +1,1225 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {711, 429}}";
+			sepNavSelRange = "{121, 0}";
+			sepNavVisRect = "{{0, 0}, {711, 429}}";
+			sepNavWindowFrame = "{{83, 162}, {750, 558}}";
+		};
+	};
+	0E12990B0848E001003E297A = {
+		fRef = 77C8280C06725ACE000B614F;
+		isa = PBXTextBookmark;
+		name = "CocoaCEDICTAppDelegate.m: 184";
+		rLen = 0;
+		rLoc = 6962;
+		rType = 0;
+		vrLen = 445;
+		vrLoc = 29;
+	};
+	0E12990C0848E001003E297A = {
+		fRef = 0E6C5C8508371B79002576C8;
+		isa = PBXTextBookmark;
+		name = "ArrowButton.h: 15";
+		rLen = 0;
+		rLoc = 853;
+		rType = 0;
+		vrLen = 645;
+		vrLoc = 1006;
+	};
+	0E12990D0848E001003E297A = {
+		fRef = 0E6E0F3E082992C700D8555F;
+		isa = PBXTextBookmark;
+		name = "MenuedTableView.h: 3";
+		rLen = 0;
+		rLoc = 71;
+		rType = 0;
+		vrLen = 265;
+		vrLoc = 0;
+	};
+	0E1299830848EF5F003E297A = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {711, 2422}}";
+			sepNavSelRange = "{5101, 0}";
+			sepNavVisRect = "{{0, 1979}, {711, 429}}";
+			sepNavWindowFrame = "{{221, 36}, {750, 558}}";
+		};
+	};
+	0E1299C90848F653003E297A = {
+		isa = PBXSymbolicBreakpoint;
+		state = 1;
+		symbolName = "-[NSException raise]";
+	};
+	0E1F665F084A7B0700A77847 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {711, 444}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {711, 444}}";
+			sepNavWindowFrame = "{{106, 141}, {750, 558}}";
+		};
+	};
+	0E27FD770847E5E700AC3B63 = {
+		fRef = 8D1107310486CEB800E47090;
+		isa = PBXTextBookmark;
+		name = "Info.plist: 6";
+		rLen = 0;
+		rLoc = 218;
+		rType = 0;
+		vrLen = 729;
+		vrLoc = 0;
+	};
+	0E27FD7B0847E5E700AC3B63 = {
+		fRef = 8D1107310486CEB800E47090;
+		isa = PBXTextBookmark;
+		name = "Info.plist: 6";
+		rLen = 0;
+		rLoc = 218;
+		rType = 0;
+		vrLen = 729;
+		vrLoc = 0;
+	};
+	0E27FD8408480F5900AC3B63 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {684, 308}}";
+			sepNavSelRange = "{56, 0}";
+			sepNavVisRect = "{{0, 0}, {684, 308}}";
+		};
+	};
+	0E27FD8508480F5900AC3B63 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {711, 1792}}";
+			sepNavSelRange = "{3232, 63}";
+			sepNavVisRect = "{{0, 1305}, {711, 429}}";
+			sepNavWindowFrame = "{{198, 57}, {750, 558}}";
+		};
+	};
+	0E27FD9B0848115400AC3B63 = {
+		fRef = 0E27FD8408480F5900AC3B63;
+		isa = PBXTextBookmark;
+		name = "CocoaCEDICTTableViewHelper.h: 4";
+		rLen = 0;
+		rLoc = 56;
+		rType = 0;
+		vrLen = 247;
+		vrLoc = 0;
+	};
+	0E27FDA00848115400AC3B63 = {
+		fRef = 0E27FD8408480F5900AC3B63;
+		isa = PBXTextBookmark;
+		name = "CocoaCEDICTTableViewHelper.h: 5";
+		rLen = 0;
+		rLoc = 241;
+		rType = 0;
+		vrLen = 106;
+		vrLoc = 0;
+	};
+	0E27FDF108481D0300AC3B63 = {
+		fRef = 0E27FD8508480F5900AC3B63;
+		isa = PBXTextBookmark;
+		name = "CocoaCEDICTTableViewHelper.m: tableView:objectValueForTableColumn:row:";
+		rLen = 0;
+		rLoc = 2492;
+		rType = 0;
+		vrLen = 577;
+		vrLoc = 277;
+	};
+	0E27FDF508481D0300AC3B63 = {
+		fRef = 77C8280B06725ACE000B614F;
+		isa = PBXTextBookmark;
+		name = "CocoaCEDICTAppDelegate.h: 28";
+		rLen = 0;
+		rLoc = 1133;
+		rType = 0;
+		vrLen = 603;
+		vrLoc = 227;
+	};
+	0E27FDF608481D0300AC3B63 = {
+		fRef = 0E27FD8508480F5900AC3B63;
+		isa = PBXTextBookmark;
+		name = "CocoaCEDICTTableViewHelper.m: tableView:objectValueForTableColumn:row:";
+		rLen = 0;
+		rLoc = 2492;
+		rType = 0;
+		vrLen = 577;
+		vrLoc = 277;
+	};
+	0E27FDF708481D0300AC3B63 = {
+		fRef = 77C8280C06725ACE000B614F;
+		isa = PBXTextBookmark;
+		name = startAnimation;
+		rLen = 14;
+		rLoc = 5993;
+		rType = 0;
+		vrLen = 489;
+		vrLoc = 4350;
+	};
+	0E27FDF808481D0300AC3B63 = {
+		fRef = 0E6C5C8508371B79002576C8;
+		isa = PBXTextBookmark;
+		name = "ArrowButton.h: 15";
+		rLen = 0;
+		rLoc = 853;
+		rType = 0;
+		vrLen = 1119;
+		vrLoc = 0;
+	};
+	0E27FE20084824EA00AC3B63 = {
+		fRef = 77C8280B06725ACE000B614F;
+		isa = PBXTextBookmark;
+		name = "CocoaCEDICTAppDelegate.h: SEARCH_SECTION_ANY_CHIN";
+		rLen = 0;
+		rLoc = 573;
+		rType = 0;
+		vrLen = 789;
+		vrLoc = 30;
+	};
+	0E6C5C8208371AC5002576C8 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {684, 406}}";
+			sepNavSelRange = "{192, 0}";
+			sepNavVisRect = "{{0, 42}, {684, 308}}";
+			sepNavWindowFrame = "{{60, 183}, {750, 558}}";
+		};
+	};
+	0E6C5C8308371AC5002576C8 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {566, 2338}}";
+			sepNavSelRange = "{1922, 0}";
+			sepNavVisRect = "{{0, 1440}, {459, 186}}";
+			sepNavWindowFrame = "{{226, 19}, {750, 558}}";
+		};
+	};
+	0E6C5C8508371B79002576C8 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {551, 602}}";
+			sepNavSelRange = "{853, 0}";
+			sepNavVisRect = "{{0, 274}, {551, 284}}";
+			sepNavWindowFrame = "{{50, 153}, {863, 588}}";
+		};
+	};
+	0E6C5C9808384512002576C8 = {
+		fRef = 0E6C5C8208371AC5002576C8;
+		isa = PBXTextBookmark;
+		name = "History.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	0E6E0F2B08298D1900D8555F = {
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		configStateDict = {
+		};
+		cppStopOnCatchEnabled = 0;
+		cppStopOnThrowEnabled = 0;
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		isa = PBXExecutable;
+		libgmallocEnabled = 0;
+		name = CocoaCEDICT;
+		savedGlobals = {
+		};
+		shlibInfoDictList_v2 = (
+			{
+				level = 0;
+				path = /usr/lib/system/libmathCommon.A.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libSystem.B.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libicucore.A.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libauto.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libobjc.A.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreFoundation.framework/Versions/A/CoreFoundation;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libz.1.2.2.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/SystemConfiguration.framework/Versions/A/SystemConfiguration;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/IOKit.framework/Versions/A/IOKit;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Security.framework/Versions/A/Security;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/DiskArbitration.framework/Versions/A/DiskArbitration;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CFNetwork.framework/Versions/A/CFNetwork;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/WebServicesCore.framework/Versions/A/WebServicesCore;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreServices.framework/Versions/A/CoreServices;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libbsm.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/CoreGraphics;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libcrypto.0.9.7.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreText.framework/Versions/A/CoreText;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libcups.2.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/FindByContent.framework/Versions/A/FindByContent;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/Resources/libJPEG.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/Resources/libJP2.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/Resources/libGIF.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/Resources/libRaw.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/Resources/libTIFF.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/Resources/libPng.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/Resources/libRadiance.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libmx.A.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vImage.framework/Versions/A/vImage;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvMisc.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvDSP.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLAPACK.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/vecLib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Accelerate.framework/Versions/A/Accelerate;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ImageIO.framework/Versions/A/ImageIO;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/ApplicationServices;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreAudio.framework/Versions/A/CoreAudio;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/CarbonSound.framework/Versions/A/CarbonSound;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libiconv.2.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libxml2.2.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Foundation.framework/Versions/C/Foundation;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/PrivateFrameworks/DesktopServicesPriv.framework/Versions/A/DesktopServicesPriv;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Versions/A/HIToolbox;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SpeechRecognition.framework/Versions/A/SpeechRecognition;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/AudioUnit.framework/Versions/A/AudioUnit;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/AudioToolbox.framework/Versions/A/AudioToolbox;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /usr/lib/libsqlite3.0.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/CoreData.framework/Versions/A/CoreData;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/OpenGL.framework/Versions/A/OpenGL;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLImage.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/QuartzCore.framework/Versions/A/QuartzCore;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/AppKit.framework/Versions/C/AppKit;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Cocoa.framework/Versions/A/Cocoa;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/PrivateFrameworks/ZeroLink.framework/Versions/A/ZeroLink;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /Users/markstra/projects/CocoaCEDICT/build/CocoaCEDICT.app/Contents/MacOS/CocoaCEDICT;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/markstra/projects/CocoaCEDICT/build/CocoaCEDICT.build/CocoaCEDICT.build/Objects-normal/ppc/CocoaCEDICTTableViewHelper.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/markstra/projects/CocoaCEDICT/build/CocoaCEDICT.build/CocoaCEDICT.build/Objects-normal/ppc/CocoaCEDICTAppDelegate.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/markstra/projects/CocoaCEDICT/build/CocoaCEDICT.build/CocoaCEDICT.build/Objects-normal/ppc/main.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/Resources/libCSync.A.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/markstra/projects/CocoaCEDICT/build/CocoaCEDICT.build/CocoaCEDICT.build/Objects-normal/ppc/MenuedTableView.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/markstra/projects/CocoaCEDICT/build/CocoaCEDICT.build/CocoaCEDICT.build/Objects-normal/ppc/MenuTableColumn.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/markstra/projects/CocoaCEDICT/build/CocoaCEDICT.build/CocoaCEDICT.build/Objects-normal/ppc/ArrowButton.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /Developer/Applications/Xcode.app/Contents/PlugIns/GDBMIDebugging.xcplugin/Contents/Resources/PBGDBIntrospectionSupport.A.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/markstra/projects/CocoaCEDICT/build/CocoaCEDICT.build/CocoaCEDICT.build/Objects-normal/ppc/History.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/Resources/libRIP.A.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/CoreGraphics.framework/Versions/A/Resources/libCGATS.A.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/ImageCapture.framework/Versions/A/ImageCapture;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SecurityHI.framework/Versions/A/SecurityHI;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Ink.framework/Versions/A/Ink;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Help.framework/Versions/A/Help;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/OpenScripting.framework/Versions/A/OpenScripting;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Print.framework/Versions/A/Print;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HTMLRendering.framework/Versions/A/HTMLRendering;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/NavigationServices.framework/Versions/A/NavigationServices;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/CommonPanels.framework/Versions/A/CommonPanels;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Frameworks/Carbon.framework/Versions/A/Carbon;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/Components/DictionaryService.component/Contents/MacOS/DictionaryService;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/CoreServices/Encodings/libSimplifiedChineseConverter.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/CoreServices/Encodings/libJapaneseConverter.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/CoreServices/Encodings/libTraditionalChineseConverter.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/CoreServices/Encodings/libKoreanConverter.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/CoreServices/Encodings/libGreekConverter.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/CoreServices/Encodings/libCyrillicConverter.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = /System/Library/CoreServices/Encodings/libThaiConverter.dylib;
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/markstra/projects/CocoaCEDICT/build/CocoaCEDICT.build/CocoaCEDICT.build/Objects-normal/ppc/Pinyin2Unicode.ob";
+				whenToLoad = 0;
+			},
+			{
+				level = 0;
+				path = "/Users/markstra/projects/CocoaCEDICT/build/CocoaCEDICT.build/CocoaCEDICT.build/Objects-normal/ppc/RowResizableTableView.ob";
+				whenToLoad = 0;
+			},
+		);
+		sourceDirectories = (
+		);
+	};
+	0E6E0F3908298D2500D8555F = {
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		isa = PBXSourceControlManager;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	0E6E0F3A08298D2500D8555F = {
+		indexTemplatePath = "";
+		isa = PBXCodeSenseManager;
+	};
+	0E6E0F3E082992C700D8555F = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {551, 284}}";
+			sepNavSelRange = "{71, 0}";
+			sepNavVisRect = "{{0, 0}, {551, 284}}";
+			sepNavWindowFrame = "{{256, 65}, {863, 588}}";
+		};
+	};
+	0E6E0F3F082992C700D8555F = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {678, 574}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {678, 23}}";
+			sepNavWindowFrame = "{{119, 90}, {863, 588}}";
+		};
+	};
+	0E6E0F40082992C700D8555F = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {551, 224}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {0, 0}}";
+		};
+	};
+	0E6E0F41082992C700D8555F = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {684, 308}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {684, 308}}";
+			sepNavWindowFrame = "{{142, 69}, {863, 588}}";
+		};
+	};
+	0E6E0F5C082A037300D8555F = {
+		fRef = 770B37EC0679A11B001EADE2;
+		fallbackIsa = PBXBookmark;
+		isa = XDModelBookmark;
+	};
+	0E6E0F5F082A037300D8555F = {
+		fRef = 770B37EC0679A11B001EADE2;
+		fallbackIsa = PBXBookmark;
+		isa = XDModelBookmark;
+	};
+	0E77A1B90846DFB600A0464E = {
+		fRef = 0EA04636084401080000ECC7;
+		isa = PBXTextBookmark;
+		name = "cedict_readme.txt: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1007;
+		vrLoc = 0;
+	};
+	0E77A1BA0846DFB600A0464E = {
+		fRef = 0E6C5C8308371AC5002576C8;
+		isa = PBXTextBookmark;
+		name = "History.m: 10";
+		rLen = 0;
+		rLoc = 151;
+		rType = 0;
+		vrLen = 367;
+		vrLoc = 130;
+	};
+	0E77A1BB0846DFB600A0464E = {
+		fRef = 0E6E0F41082992C700D8555F;
+		isa = PBXTextBookmark;
+		name = "MenuTableColumn.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 248;
+		vrLoc = 0;
+	};
+	0E77A1BC0846DFB600A0464E = {
+		fRef = 0E6C5C8208371AC5002576C8;
+		isa = PBXTextBookmark;
+		name = "History.h: HISTORY_DEFAULT_MAX_ITEMS";
+		rLen = 0;
+		rLoc = 193;
+		rType = 0;
+		vrLen = 427;
+		vrLoc = 33;
+	};
+	0E77A1BF0846DFB600A0464E = {
+		fRef = 0EA04636084401080000ECC7;
+		isa = PBXTextBookmark;
+		name = "cedict_readme.txt: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1007;
+		vrLoc = 0;
+	};
+	0E77A1C50846DFB600A0464E = {
+		fRef = 0E6C5C8308371AC5002576C8;
+		isa = PBXTextBookmark;
+		name = "History.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 183;
+		vrLoc = 0;
+	};
+	0EA04636084401080000ECC7 = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1664, 4032}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {684, 308}}";
+		};
+	};
+	0EADF36F084BED3A00F0F2F9 = {
+		fRef = 0E6E0F40082992C700D8555F;
+		isa = PBXTextBookmark;
+		name = "MenuTableColumn.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	0ED52BA4082E00F200C0A143 = {
+		fRef = 0E6E0F3F082992C700D8555F;
+		isa = PBXTextBookmark;
+		name = "MenuedTableView.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 56;
+		vrLoc = 0;
+	};
+	0ED52BBF082E00F200C0A143 = {
+		fRef = 0E6E0F3E082992C700D8555F;
+		isa = PBXTextBookmark;
+		name = "MenuedTableView.h: 3";
+		rLen = 0;
+		rLoc = 71;
+		rType = 0;
+		vrLen = 60;
+		vrLoc = 0;
+	};
+	0ED52BC0082E00F200C0A143 = {
+		fRef = 0E6E0F3F082992C700D8555F;
+		isa = PBXTextBookmark;
+		name = "MenuedTableView.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 56;
+		vrLoc = 0;
+	};
+	0EF12013084C21FB004B3F24 = {
+		fRef = 0E6E0F40082992C700D8555F;
+		isa = PBXTextBookmark;
+		name = "MenuTableColumn.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 0;
+		vrLoc = 0;
+	};
+	0EFC26ED082D88B400A22891 = {
+		fRef = 0E6E0F41082992C700D8555F;
+		isa = PBXTextBookmark;
+		name = "MenuTableColumn.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 248;
+		vrLoc = 0;
+	};
+	29B97313FDCFA39411CA2CEA = {
+		activeBuildStyle = 4A9504CDFFE6A4B311CA0CBA;
+		activeExecutable = 0E6E0F2B08298D1900D8555F;
+		activeTarget = 8D1107260486CEB800E47090;
+		addToTargets = (
+			8D1107260486CEB800E47090,
+		);
+		breakpoints = (
+			0E1299C90848F653003E297A,
+		);
+		codeSenseManager = 0E6E0F3A08298D2500D8555F;
+		executables = (
+			0E6E0F2B08298D1900D8555F,
+		);
+		expressions = (
+			preferredChin,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					243,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					241,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					353,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					200,
+					173,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 139205733;
+			PBXWorkspaceStateSaveDate = 139205733;
+		};
+		perUserProjectItems = {
+			0E12990B0848E001003E297A = 0E12990B0848E001003E297A;
+			0E12990C0848E001003E297A = 0E12990C0848E001003E297A;
+			0E12990D0848E001003E297A = 0E12990D0848E001003E297A;
+			0E27FD770847E5E700AC3B63 = 0E27FD770847E5E700AC3B63;
+			0E27FD7B0847E5E700AC3B63 = 0E27FD7B0847E5E700AC3B63;
+			0E27FD9B0848115400AC3B63 = 0E27FD9B0848115400AC3B63;
+			0E27FDA00848115400AC3B63 = 0E27FDA00848115400AC3B63;
+			0E27FDF108481D0300AC3B63 = 0E27FDF108481D0300AC3B63;
+			0E27FDF508481D0300AC3B63 = 0E27FDF508481D0300AC3B63;
+			0E27FDF608481D0300AC3B63 = 0E27FDF608481D0300AC3B63;
+			0E27FDF708481D0300AC3B63 = 0E27FDF708481D0300AC3B63;
+			0E27FDF808481D0300AC3B63 = 0E27FDF808481D0300AC3B63;
+			0E27FE20084824EA00AC3B63 = 0E27FE20084824EA00AC3B63;
+			0E6C5C9808384512002576C8 = 0E6C5C9808384512002576C8;
+			0E6E0F5C082A037300D8555F = 0E6E0F5C082A037300D8555F;
+			0E6E0F5F082A037300D8555F = 0E6E0F5F082A037300D8555F;
+			0E77A1B90846DFB600A0464E = 0E77A1B90846DFB600A0464E;
+			0E77A1BA0846DFB600A0464E = 0E77A1BA0846DFB600A0464E;
+			0E77A1BB0846DFB600A0464E = 0E77A1BB0846DFB600A0464E;
+			0E77A1BC0846DFB600A0464E = 0E77A1BC0846DFB600A0464E;
+			0E77A1BF0846DFB600A0464E = 0E77A1BF0846DFB600A0464E;
+			0E77A1C50846DFB600A0464E = 0E77A1C50846DFB600A0464E;
+			0EADF36F084BED3A00F0F2F9 = 0EADF36F084BED3A00F0F2F9;
+			0ED52BA4082E00F200C0A143 = 0ED52BA4082E00F200C0A143;
+			0ED52BBF082E00F200C0A143 = 0ED52BBF082E00F200C0A143;
+			0ED52BC0082E00F200C0A143 = 0ED52BC0082E00F200C0A143;
+			0EF12013084C21FB004B3F24 = 0EF12013084C21FB004B3F24;
+			0EFC26ED082D88B400A22891 = 0EFC26ED082D88B400A22891;
+		};
+		sourceControlManager = 0E6E0F3908298D2500D8555F;
+		userBuildSettings = {
+		};
+	};
+	770B37EC0679A11B001EADE2 = {
+		uiCtxt = {
+			"Xdesign Model Editor Bookmark Key" = {
+				UIContextForDetailArea = {
+					_indexOfSelectedPane = 0;
+					_indexOfSelectedView = 0;
+				};
+				UIContextForEntityArea = {
+					_indexOfSelectedView = 0;
+					chosenTableColumnns = (
+						"ET Entity",
+						"ET Abstract",
+						"ET Class",
+					);
+					chosenTableColumnns_sortDirections = (
+					);
+					chosenTableColumnns_sortKeys = (
+					);
+					chosenTableColumnns_sortSelectors = (
+					);
+					chosenTableWidths = (
+						103.000000,
+						22.000000,
+						32.080078,
+					);
+				};
+				UIContextForLayoutManager = {
+					detailSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {556, 563}}",
+							"{{561, 0}, {297, 563}}",
+						);
+					};
+					diagramSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {858, 563}}",
+							"{{0, 568}, {858, 0}}",
+						);
+					};
+					tableSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {175, 563}}",
+							"{{180, 0}, {376, 563}}",
+						);
+					};
+				};
+				UIContextForPropertyArea = {
+					_indexOfSelectedView = 0;
+					chosenTableColumnnFRTs = (
+						"FT Fetch Request",
+						"FT Predicate",
+					);
+					chosenTableColumnnFRTs_sortDirections = (
+					);
+					chosenTableColumnnFRTs_sortKeys = (
+					);
+					chosenTableColumnnFRTs_sortSelectors = (
+					);
+					chosenTableColumnnsAT = (
+						"AT Attribute",
+						"AT Type",
+					);
+					chosenTableColumnnsAT_sortDirections = (
+					);
+					chosenTableColumnnsAT_sortKeys = (
+					);
+					chosenTableColumnnsAT_sortSelectors = (
+					);
+					chosenTableColumnnsFPT = (
+						"FP FetchedProperty",
+						"FP Destination",
+						"FP Predicate",
+					);
+					chosenTableColumnnsFPT_sortDirections = (
+					);
+					chosenTableColumnnsFPT_sortKeys = (
+					);
+					chosenTableColumnnsFPT_sortSelectors = (
+					);
+					chosenTableColumnnsPT = (
+						"PT Property",
+						"PT Kind",
+						"PT SharedKeyOne",
+					);
+					chosenTableColumnnsPT_sortDirections = (
+					);
+					chosenTableColumnnsPT_sortKeys = (
+					);
+					chosenTableColumnnsPT_sortSelectors = (
+					);
+					chosenTableColumnnsRT = (
+						"RT Relationship",
+						"RT Destination",
+					);
+					chosenTableColumnnsRT_sortDirections = (
+					);
+					chosenTableColumnnsRT_sortKeys = (
+					);
+					chosenTableColumnnsRT_sortSelectors = (
+					);
+					chosenTableWidthsAT = (
+						128.000000,
+						64.000000,
+					);
+					chosenTableWidthsFPT = (
+						128.000000,
+						64.000000,
+						144.764160,
+					);
+					chosenTableWidthsFRT = (
+						128.000000,
+						249.764160,
+					);
+					chosenTableWidthsPT = (
+						128.000000,
+						108.110840,
+						96.570801,
+					);
+					chosenTableWidthsRT = (
+						128.000000,
+						64.000000,
+					);
+				};
+				"xdesign model browser state key - shown/hidden" = 1;
+				"xdesign model diagram view visible rect key" = "{{-98, 108}, {843, 0}}";
+			};
+			sepNavWindowFrame = "{{54, 64}, {858, 682}}";
+		};
+	};
+	77C8280B06725ACE000B614F = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {824, 1428}}";
+			sepNavSelRange = "{1486, 0}";
+			sepNavVisRect = "{{0, 730}, {824, 459}}";
+			sepNavWindowFrame = "{{266, 78}, {863, 588}}";
+		};
+	};
+	77C8280C06725ACE000B614F = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1172, 11746}}";
+			sepNavSelRange = "{6428, 0}";
+			sepNavVisRect = "{{0, 2901}, {711, 429}}";
+			sepNavWindowFrame = "{{272, 67}, {750, 558}}";
+		};
+	};
+	8D1107260486CEB800E47090 = {
+		activeExec = 0;
+		executables = (
+			0E6E0F2B08298D1900D8555F,
+		);
+	};
+	8D1107310486CEB800E47090 = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{60, 183}, {750, 558}}";
+		};
+	};
+}

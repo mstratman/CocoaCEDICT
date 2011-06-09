@@ -1,0 +1,54 @@
+{
+    IBClasses = (
+        {CLASS = ArrowButton; LANGUAGE = ObjC; SUPERCLASS = NSButton; }, 
+        {
+            ACTIONS = {
+                copyAll = id; 
+                copyEnglish = id; 
+                copyPinyin = id; 
+                copySimp = id; 
+                copyTrad = id; 
+                historyBack = id; 
+                historyForward = id; 
+                historyItemSelected = id; 
+                saveAction = id; 
+                search = id; 
+                showCEDICTReadme = id; 
+                showChinFontPanel = id; 
+                showEngFontPanel = id; 
+            }; 
+            CLASS = CocoaCEDICTAppDelegate; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                backButton = ArrowButton; 
+                chinFontDisplay = NSTextField; 
+                engFontDisplay = NSTextField; 
+                forwardButton = ArrowButton; 
+                progressIndicator = NSProgressIndicator; 
+                searchField = NSSearchField; 
+                tableView = NSTableView; 
+                window = NSWindow; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {
+            ACTIONS = {"" = id; }; 
+            CLASS = FirstResponder; 
+            LANGUAGE = ObjC; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {
+            CLASS = MenuTableColumn; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {colMenu = NSMenu; }; 
+            SUPERCLASS = NSTableColumn; 
+        }, 
+        {
+            CLASS = MenuedTableView; 
+            LANGUAGE = ObjC; 
+            SUPERCLASS = RowResizableTableView; 
+        }, 
+        {CLASS = RowResizableTableView; LANGUAGE = ObjC; SUPERCLASS = NSTableView; }
+    ); 
+    IBVersion = 1; 
+}

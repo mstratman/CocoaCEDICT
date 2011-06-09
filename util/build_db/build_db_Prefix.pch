@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'build_db' target in the 'build_db' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

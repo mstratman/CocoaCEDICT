@@ -1,0 +1,8 @@
+3.0.0: 2005-05-29
+	* Completely new rewrite .. see the webpage for a list of features
+
+3.0.1: 2005-05-31
+	* Fixed English + any match.  For some reason
+	  "ANY english.definition CONTAINS $TERM" acts exactly like "==".
+	  Changed it to "LIKE *$TERM*"
+
